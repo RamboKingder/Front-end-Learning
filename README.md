@@ -1,5 +1,15 @@
 # 基于React的桌面应用程序开发
 
+## 资源链接：
+[HTML教程|菜鸟教程](https://www.runoob.com/html/html-tutorial.html)
+[CSS 教程|菜鸟教程](https://www.runoob.com/css/css-tutorial.html)
+[JavaScript菜鸟教程](https://www.runoob.com/js/js-tutorial.html)
+[Node.js 官方教程](http://nodejs.cn/learn/introduction-to-nodejs)
+[Node.js 菜鸟教程](https://www.runoob.com/nodejs/nodejs-tutorial.html)
+[React 菜鸟教程](https://www.runoob.com/react/react-tutorial.html)
+[Electron教程](https://www.electronjs.org/docs/tutorial/quick-start)
+[]()[]()
+
 ## React
 React 是一个用于构建 UI 的 JavaScript 库
 
@@ -43,3 +53,6 @@ Electron控制着两种类型的进程：主进程和渲染器进程
 package.json记录当前项目所依赖模块的版本信息
 
 package-lock.json记录了node_modules目录下所有模块的具体来源和版本号以及其他的信息。
+
+
+补充说明：我以后并不想从事前端相关的工作，只是想学着玩一玩做做小项目。
